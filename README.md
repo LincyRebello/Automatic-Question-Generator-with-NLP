@@ -1,2 +1,4 @@
 # Automatic-Question-Generator-with-NLP
-This is my Final Year BE Project. In Natural Language Processing (NLP),  Question Generation (QG) is a well-known task that involves generating understandable questions from an input text. There are many useful applications in  AQG, especially in educational settings, to create quizzes or reading comprehension papers.
+This is my final-year BE Project. In Natural Language Processing (NLP), question generation (QG) is a well-known task that generates understandable questions from an input text. There are many valuable applications in  AQG, especially in educational settings, to create quizzes or reading comprehension papers.
+
+The workings and flow of the project are given in the report provided.
